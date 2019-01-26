@@ -1,3 +1,10 @@
 .fullbutton{
+    padding:0;
     width:100%;
+}
+
+@media screen and (max-device-width: 600px){
+.three.columns{
+    width: 25%;
+}
 }
