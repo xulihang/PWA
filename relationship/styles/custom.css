@@ -5,6 +5,7 @@
 
 @media screen and (max-device-width: 600px){
 .three.columns{
+    padding:2px;
     width: 25%;
 }
 }
